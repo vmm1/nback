@@ -1,5 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
+<HTML>
     DUPA
 <!--     <head>
         <meta http-equiv="Pragma" content="no-cache">
@@ -35,4 +34,4 @@
             </div>
         </div>
     </body> -->
-</html>
+</HTML>
