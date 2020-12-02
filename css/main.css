@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+#wrapper{
+    margin: 0 auto; /* margin auto to align center */
+    width: 900px;
+}
+
+#gameCanvas{
+    background-color: rgba(200,100,100,0.4);
+    width: 400px;
+    height: 400px;
+}
+
+.instruction{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;    
+}  
+
+.space{
+    color: blue;
+    margin-left: 50px;
+    height: 20px;    
+} 
+
+#content{
+    padding-top: 10px;
+}
+
+#gameDiv{
+    float: left;    
+}
+
+#scoreBoard{
+    float: left;
+    padding-left: 20px;
+}
