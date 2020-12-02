@@ -1,13 +1,14 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
-    <head>
+    DUPA
+<!--     <head>
         <meta http-equiv="Pragma" content="no-cache">
         <meta http-equiv="Cache-Control" content="no-cache">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>Dual 2-Back</title>
-<!--         <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+        <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript" src="js/nback.js"></script>
-        <link rel="stylesheet" type="text/css" href="css/main.css">         -->
+        <link rel="stylesheet" type="text/css" href="css/main.css">        
     </head>
     <body>
         <div id="wrapper">
@@ -15,7 +16,7 @@
                 <h3>Dual 2-back Game</h3>
                 <a href="http://brainworkshop.sourceforge.net/tutorial.html" target="_blank">How to play</a>
             </div>
-<!--             <div id="content">
+            <div id="content">
                 <div id="gameDiv">
                     <canvas id="gameCanvas" width="400" height="400">
                     </canvas>
@@ -29,9 +30,9 @@
                     <ul id="scoreList">                        
                     </ul>
                 </div>
-            </div> -->
+            </div>
             <div id="footer"> 
             </div>
         </div>
-    </body>
+    </body> -->
 </html>
